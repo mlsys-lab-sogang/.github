@@ -1,4 +1,4 @@
-# Machine Learning & Systems Laboratory
+# Machine Learning Systems Laboratory
 
 <br>
 
